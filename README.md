@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning full-stack Java development, improving my skills in Hibernate, Spring Boot, and expanding my knowledge in ethical hacking.
 - 💼 I’ve worked on projects such as a Phishing Website Detection System using machine learning, a Kids Drawing App on Android, and several web apps including a Dice Game and Drum Kit in JavaScript. I also have experience with Python for data analysis and scripting.
 - 💞️ I’m looking to collaborate on Java and Python-based projects, full-stack web apps, and anything related to ethical hacking and security.
-- 📫 You can reach me via email at: srujan601@example.com or connect with me on LinkedIn.
+- 📫 You can reach me via email at: srujan601@gmail.com or connect with me on LinkedIn.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m passionate about exploring nature and wildlife, and I run a YouTube channel called "NatureExplorer" where I share my love for the natural world!
